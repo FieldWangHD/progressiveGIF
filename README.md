@@ -1,5 +1,4 @@
-fjidjifj
-isjsdi
+from master
 # progressiveGIF
 jsidfij
 This project is aim to display gif when user download it from internet.
